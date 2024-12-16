@@ -1,6 +1,3 @@
-Here is a professional **README.md** file for your GitHub repository. This README highlights the purpose, workflow, installation, and key results of your **Predictive Credit Risk Model** project.
-
----
 
 # **Predictive Credit Risk Model**
 
@@ -111,7 +108,7 @@ To run this project locally, follow these steps:
 ## **Visualizations**
 
 1. **Confusion Matrix**:
-   ![Confusion Matrix](<Add-Your-Image-Link-Here>)
+   ![Confusion Matrix](/ConfusionMatrix.png)
 
 2. **Feature Importance**:
    ![Feature Importance](<Add-Your-Image-Link-Here>)
