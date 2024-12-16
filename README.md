@@ -138,8 +138,4 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ## **Author**
 
 - **Your Name**  
-- Connect with me: [LinkedIn](<Your LinkedIn Link>) | [Portfolio](<Your Portfolio Link>)  
-
----
-
-Let me know if you'd like further refinements or additions! 🚀
+- Connect with me: [LinkedIn](https://www.linkedin.com/in/jebin-larosh-jervis-a52938123/) 
