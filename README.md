@@ -111,7 +111,7 @@ To run this project locally, follow these steps:
    ![Confusion Matrix](/ConfusionMatrix.png)
 
 2. **Feature Importance**:
-   ![Feature Importance](<Add-Your-Image-Link-Here>)
+   ![Feature Importance](/FeatureImportance.png)
 
 ---
 
