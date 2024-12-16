@@ -137,5 +137,5 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## **Author**
 
-- **Your Name**  
+- **Jebin Larosh Jervis**  
 - Connect with me: [LinkedIn](https://www.linkedin.com/in/jebin-larosh-jervis-a52938123/) 
